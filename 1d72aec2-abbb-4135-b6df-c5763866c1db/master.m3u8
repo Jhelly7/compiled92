@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=283175,RESOLUTION=640x360
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled92@job-1d72aec2-abbb-4135-b6df-c5763866c1db/1d72aec2-abbb-4135-b6df-c5763866c1db/hls/index.m3u8
